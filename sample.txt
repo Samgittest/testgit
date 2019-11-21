@@ -1,3 +1,5 @@
 testgit
 add word in file master/sample.txt
 add contract in sample.txt
+add contract in master/sample.txt
+
