@@ -1,2 +1,2 @@
 testgit
-
+add word in file master/sample.txt
